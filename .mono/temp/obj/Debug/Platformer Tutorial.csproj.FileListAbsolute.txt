@@ -1,0 +1,6 @@
+C:\Users\eric\Projects\Godot\PlatformerTutorial\.mono\temp\bin\Debug\Platformer Tutorial.dll
+C:\Users\eric\Projects\Godot\PlatformerTutorial\.mono\temp\bin\Debug\Platformer Tutorial.pdb
+C:\Users\eric\Projects\Godot\PlatformerTutorial\.mono\temp\obj\Debug\Platformer Tutorial.csprojAssemblyReference.cache
+C:\Users\eric\Projects\Godot\PlatformerTutorial\.mono\temp\obj\Debug\Platformer Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\eric\Projects\Godot\PlatformerTutorial\.mono\temp\obj\Debug\Platformer Tutorial.dll
+C:\Users\eric\Projects\Godot\PlatformerTutorial\.mono\temp\obj\Debug\Platformer Tutorial.pdb

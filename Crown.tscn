@@ -1,0 +1,28 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://sheet/sprite_093.png" type="Texture" id=1]
+[ext_resource path="res://sheet/sprite_094.png" type="Texture" id=2]
+[ext_resource path="res://Crown.cs" type="Script" id=3]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 1 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "idle",
+"speed": 5.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 4.20378, 3.01395 )
+
+[node name="Crown" type="Area2D"]
+script = ExtResource( 3 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+animation = "idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( -0.161202, 5.05095 )
+shape = SubResource( 2 )
+[connection signal="body_entered" from="." to="." method="OnCrownBodyEntered"]

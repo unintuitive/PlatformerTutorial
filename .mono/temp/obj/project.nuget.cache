@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ja1jlifgv0Y93MxGM9Wy7gTnquVMKt8wcMtPlg+RkwzBxSiQwC3yc9VX/GWuc46slEahtZ0eqYYEscPRbphVLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eric\\Projects\\Godot\\PlatformerTutorial\\Platformer Tutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\eric\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.0\\microsoft.netframework.referenceassemblies.net47.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

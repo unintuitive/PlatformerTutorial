@@ -1,0 +1,6 @@
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\PlatformerTutorial\.mono\temp\bin\Tools\Platformer Tutorial.dll
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\PlatformerTutorial\.mono\temp\bin\Tools\Platformer Tutorial.pdb
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\PlatformerTutorial\.mono\temp\obj\Tools\Platformer Tutorial.csprojAssemblyReference.cache
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\PlatformerTutorial\.mono\temp\obj\Tools\Platformer Tutorial.dll
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\PlatformerTutorial\.mono\temp\obj\Tools\Platformer Tutorial.pdb
+C:\Users\eric\Desktop\Godot_v3.2.1-stable_mono_win64\PlatformerTutorial\.mono\temp\obj\Tools\Platformer Tutorial.csproj.CoreCompileInputs.cache
